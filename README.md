@@ -1,2 +1,2 @@
-Zdarova !
-Ne vedem in mai!
+# Student
+Lascu Mihai gr.TI-153
